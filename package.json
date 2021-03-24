@@ -20,5 +20,8 @@
   "bugs": {
     "url": "https://github.com/lavitzwind/asyncronism-rickandmorty/issues"
   },
-  "homepage": "https://github.com/lavitzwind/asyncronism-rickandmorty#readme"
+  "homepage": "https://github.com/lavitzwind/asyncronism-rickandmorty#readme",
+  "dependencies": {
+    "xmlhttprequest": "^1.8.0"
+  }
 }
